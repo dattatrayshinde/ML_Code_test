@@ -2,4 +2,4 @@
 Video Games Analytics
 
 Please click link to open Report -
-[Project Report](Project_report.pdf)
+[Project Report](Project_Report.pdf)
